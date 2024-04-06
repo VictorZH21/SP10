@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\SP10\SP10\bin\Debug\SP10.exe.config
+C:\Users\CoFFey\source\repos\SP10\SP10\bin\Debug\SP10.exe
+C:\Users\CoFFey\source\repos\SP10\SP10\bin\Debug\SP10.pdb
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.Form1.resources
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.exe
+C:\Users\CoFFey\source\repos\SP10\SP10\obj\Debug\SP10.pdb
